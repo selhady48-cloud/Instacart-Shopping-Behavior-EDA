@@ -2,7 +2,7 @@
 
 **Author:** Saleh Elhady  
 **Date:** 2025-04-26  
-**Role:** Data Analyst 
+**Role:** Data Analyst
 
 ---
 
