@@ -1,0 +1,62 @@
+# Instacart Grocery Basket Analysis — Customer Ordering Behavior
+
+**Author:** Your Name  
+**Date:** YYYY-MM-DD  
+**Role:** Data Analyst | Portfolio Project
+
+---
+
+## Project Summary
+This project performs Exploratory Data Analysis (EDA) on a modified Instacart grocery orders dataset to uncover customer shopping patterns — including timing, reorder behavior, and product popularity. The goal is to translate raw data into actionable business insights (e.g., recommendation timing, inventory planning).
+
+---
+
+## Business Questions
+1. When do customers make the most orders (hour/day)?
+2. How often do customers reorder items?
+3. What are the most popular and most reordered products?
+4. How does shopping behavior differ across customer segments?
+
+---
+
+## Data Overview
+The dataset includes:
+* **instacart_orders.csv**
+* **order_products.csv**
+* **products.csv**
+* **aisles.csv**
+* **departments.csv**
+
+*Note:* Full dataset not included due to size/licensing — sample files are provided.
+
+---
+
+## Key Insights
+- 🕒 Peak ordering occurs at [X] hours and on [Y] days.
+- 🔁 High reorder proportions for products like [top items].
+- 🛒 Most frequent first-added products indicate preference clusters.
+
+---
+
+## How to Run
+1. Clone repo
+2. Install dependencies: `pip install -r requirements.txt`
+3. Open the notebook in Jupyter
+4. Run all cells
+
+---
+
+## Visuals (screenshots)
+![Hourly Orders Bar Chart](./images/hourly_orders.png)
+![Top Reordered Products](./images/top_reordered.png)
+
+---
+
+## Tools & Libraries
+Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+## Future Improvements
+* Build predictive model for reorder likelihood.
+* Create interactive dashboard (Plotly/Streamlit).
