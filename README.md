@@ -46,11 +46,6 @@ The dataset includes:
 
 ---
 
-## Visuals (screenshots)
-![Hourly Orders Bar Chart](./images/hourly_orders.png)
-![Top Reordered Products](./images/top_reordered.png)
-
----
 
 ## Tools & Libraries
 Pandas, NumPy, Matplotlib, Seaborn
