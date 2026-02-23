@@ -1,7 +1,7 @@
 # Instacart Grocery Basket Analysis — Customer Ordering Behavior
 
-**Author:** Your Name  
-**Date:** YYYY-MM-DD  
+**Author:** Saleh Elhady  
+**Date:** 2025-04-26  
 **Role:** Data Analyst | Portfolio Project
 
 ---
