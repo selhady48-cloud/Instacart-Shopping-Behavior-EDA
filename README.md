@@ -32,8 +32,8 @@ The dataset includes:
 ---
 
 ## Key Insights
-- 🕒 Peak ordering occurs at [X] hours and on [Y] days.
-- 🔁 High reorder proportions for products like [top items].
+- 🕒 Peak ordering hours and days.
+- 🔁 High reorder proportions for certain products.
 - 🛒 Most frequent first-added products indicate preference clusters.
 
 ---
